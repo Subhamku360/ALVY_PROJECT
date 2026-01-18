@@ -1,18 +1,14 @@
-# 👗 Fashion Studio – Creative Agency Website
+# ALVY_PROJECT – Creative Agency Website
 
 A modern, dark-themed **fashion agency landing website** built using **HTML5 & SCSS**, focused on clean layouts, strong typography, and smooth responsiveness.
 
 ---
 
 ## 🔥 Live Preview
-🚀 https://your-live-link-here.com
+🚀 [https://your-live-link-here.com](https://alvy-project.vercel.app/)
 
 ---
 
-## 📸 Preview
-[▶ Watch Full Video](/Videos/Video.mp4)
-
----
 
 ## ✨ Key Highlights
 
