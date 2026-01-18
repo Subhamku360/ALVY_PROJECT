@@ -1,0 +1,219 @@
+.sixth{
+    height: 150%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+    .profile1{
+        height:50%;
+        width: 100%;
+        background-image: url("images/Profile/63d2ccbd7d003dfb6a1bdecb_team-01-p-800.webp");
+        background-size: cover;
+        background-position: center;
+        border-radius: .5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .upper{
+            padding: 2rem;
+            display: flex;
+            justify-content: end;
+            gap: 1rem;
+            i{
+                color: white;
+                background-color: black;
+                padding: 1rem;
+                border-radius: 50%;
+                background-color: rgba(255,255,255,0.375);
+                backdrop-filter: blur(10px);
+                font-size: 1.2rem;
+            }
+        }
+        .bottom{
+            width: 100%;
+            height: 30%;
+
+            display: flex;
+            align-items: center;
+            padding: 2rem 1rem;
+
+
+            display: flex;
+            justify-content:center;
+            align-items: center;
+            .box{
+                border-radius: .3rem;
+                height: 190%;
+                width: 100%;
+                padding: 2rem;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                gap: 1rem;
+                justify-content: space-between;
+                background-color: rgba(255,255,255,0.375);
+                backdrop-filter: blur(10px);
+
+             h2{
+                font-size: 1.5rem;
+                font-weight: 300;
+                font-family:"Chillax";
+                text-transform: uppercase;
+                color: white;
+                line-height: 1.2;
+            }
+            p{
+                font-size: 1rem;
+                font-family:"Roboto";
+                line-height: 1.5;
+                color:white;
+            }
+            }
+
+        }
+
+    }
+    .profile2{
+        height:50%;
+        width: 100%;
+        background-image: url("images/Profile/image2.png");
+        background-size: cover;
+        background-position: center;
+        border-radius: .5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .upper{
+            padding: 2rem;
+            display: flex;
+            justify-content: end;
+            gap: 1rem;
+            i{
+                color: white;
+                background-color: black;
+                padding: 1rem;
+                border-radius: 50%;
+                background-color: rgba(255,255,255,0.375);
+                backdrop-filter: blur(10px);
+                font-size: 1.2rem;
+            }
+        }
+        .bottom{
+            width: 100%;
+            height: 30%;
+
+            display: flex;
+            align-items: center;
+            padding: 2rem 1rem;
+
+
+            display: flex;
+            justify-content:center;
+            align-items: center;
+            .box{
+                border-radius: .3rem;
+                height: 190%;
+                width: 100%;
+                padding: 2rem;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                gap: 1rem;
+                justify-content: space-between;
+                background-color: rgba(255,255,255,0.375);
+                backdrop-filter: blur(10px);
+
+             h2{
+                font-size: 1.5rem;
+                font-weight: 300;
+                font-family:"Chillax";
+                text-transform: uppercase;
+                color: white;
+                line-height: 1.2;
+                text-transform: uppercase;
+            }
+            p{
+                font-size: 1rem;
+                font-family:"Roboto";
+                line-height: 1.5;
+                color:white;
+                text-transform: uppercase;
+            }
+            }
+
+        }
+
+    }
+    .profile3{
+        height:50%;
+        width: 100%;
+        background-image: url("images/Profile/image3.png");
+        background-size: cover;
+        background-position: center;
+        border-radius: .5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .upper{
+            padding: 2rem;
+            display: flex;
+            justify-content: end;
+            gap: 1rem;
+            i{
+                color: white;
+                background-color: black;
+                padding: 1rem;
+                border-radius: 50%;
+                background-color: rgba(255,255,255,0.375);
+                backdrop-filter: blur(10px);
+                font-size: 1.2rem;
+            }
+        }
+        .bottom{
+            width: 100%;
+            height: 30%;
+
+            display: flex;
+            align-items: center;
+            padding: 2rem 1rem;
+
+
+            display: flex;
+            justify-content:center;
+            align-items: center;
+            .box{
+                border-radius: .3rem;
+                height: 190%;
+                width: 100%;
+                padding: 2rem;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                gap: 1rem;
+                justify-content: space-between;
+                background-color: rgba(255,255,255,0.375);
+                backdrop-filter: blur(10px);
+
+             h2{
+                font-size: 1.5rem;
+                font-weight: 300;
+                font-family:"Chillax";
+                text-transform: uppercase;
+                color: white;
+                line-height: 1.2;
+                text-transform: uppercase;
+            }
+            p{
+                font-size: 1rem;
+                font-family:"Roboto";
+                line-height: 1.5;
+                color:white;
+                text-transform: uppercase;
+            }
+            }
+
+        }
+
+    }
+}

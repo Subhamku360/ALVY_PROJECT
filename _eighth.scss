@@ -1,0 +1,52 @@
+
+.eighth{
+       height:70%;
+       width: 100%;
+       padding: 1rem;
+
+       .container{
+           height: 100%;
+           width: 100%;
+           background-color:#cebd63;
+           border-radius: .5rem;
+           padding: 2rem;
+           display: flex;
+           flex-direction: column;
+           gap:4rem;
+           p{
+            font-size: 1rem;
+            font-weight: 400;
+            font-family:"Roboto";
+            text-transform: uppercase;
+            color: black;
+            line-height: 1.2;
+            text-transform: uppercase;
+           }
+
+           .heading{
+            display: flex;
+            flex-direction: column;
+            gap:1rem;
+            h2{
+            font-size: 3rem;
+            font-weight: 300;
+            font-family:"Roboto";
+            text-transform: uppercase;
+            color: black;
+            line-height: 1;
+           }
+           button{
+                background-color: black;
+                color: white;
+                padding: 1.5rem;
+                border-radius: .5rem;
+                text-transform: uppercase;
+                font-family: "Roboto";
+                font-size: 1.2rem;
+           }
+           }
+
+       }
+
+
+}
